@@ -116,7 +116,7 @@ function App() {
                 }`}
               disabled={generatingAnswer}
             >
-              <img src="public/assets/arrowicon.png" alt="Arrow Icon" />
+              <img src="./assets/arrowicon.png" alt=">" />
             </button>
           </div>
         </form>
